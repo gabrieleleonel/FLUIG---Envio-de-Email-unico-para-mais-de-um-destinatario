@@ -1,4 +1,4 @@
-@@ FLUIG - Envio de email único para mais de um destinatário
+![#8532a8] FLUIG - Envio de email único para mais de um destinatário
 
 Este repositório trata-se de uma instrução de como fazer o envio de um email único para mais de um usuário por meio de um dataset, podendo ser executado pelo javascript do formulário ou até mesmo um serviço no diagrama.
 

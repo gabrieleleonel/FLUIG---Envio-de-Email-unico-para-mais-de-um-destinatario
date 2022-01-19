@@ -1,5 +1,3 @@
-```diff
-
 @@ FLUIG - Envio de email único para mais de um destinatário
 
 Este repositório trata-se de uma instrução de como fazer o envio de um email único para mais de um usuário por meio de um dataset, podendo ser executado pelo javascript do formulário ou até mesmo um serviço no diagrama.
@@ -18,5 +16,3 @@ Este repositório trata-se de uma instrução de como fazer o envio de um email 
  3. Criar um dataset e inserir o código deste repositório fazendo as devidas alterações.
 
 @@ Após finalizar a configuração, basta apenas exportar o dataset e o chamar onde precisar passando as constraints se necessário.
-
-```

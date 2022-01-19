@@ -5,13 +5,15 @@ Este repositório trata-se de uma instrução de como fazer o envio de um email 
 ## Configuração
 
 1. Criar o template de email e o cadastrar no FLUIG pelo painel de controle.
-2. Criar o serviço no FLUIG pelo painel de controle.
-   Serviço: REST <br>
-   Nome: customEmailSender (Este valor é utilizado no código, então deve ter um pouco mais de atenção) <br>
-   Descrição: customEmailSender (Pode ser renomeado como preferir) <br>
-   Arquivo Swagger: Não é necessário inserir <br>
-   Domínio: Url do fluig <br>
-   Tipo de Autenticação: Fluig API <br>
+2. Criar o serviço no FLUIG pelo painel de controle. <br>
+   **Serviço:** REST <br>
+   **Nome:** customEmailSender <br>
+      ```Este valor é utilizado no código, então deve ter um pouco mais de atenção ```<br>
+   **Descrição:** customEmailSender <br>
+      ``` Pode ser renomeado como preferir ```<br>
+   **Arquivo Swagger:** Não é necessário inserir <br>
+   **Domínio:** Url do fluig <br>
+   **Tipo de Autenticação:** Fluig API <br>
    
  3. Criar um dataset e inserir o código deste repositório fazendo as devidas alterações.
 
